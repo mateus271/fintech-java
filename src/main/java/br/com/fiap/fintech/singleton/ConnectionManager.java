@@ -7,9 +7,9 @@ import br.com.fiap.fintech.singleton.ConnectionManager;
 
 public class ConnectionManager {
 	private static ConnectionManager connectionManager;
-	private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL";
-	private static final String USUARIO = "RM98073";
-	private static final String SENHA = "271294";
+	private static final String URL = "";
+	private static final String USUARIO = "";
+	private static final String SENHA = "";
 
 	private ConnectionManager() {}
 
